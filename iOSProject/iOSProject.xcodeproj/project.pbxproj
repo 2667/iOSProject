@@ -2737,7 +2737,7 @@
 				CLANG_WARN_OBJC_REPEATED_USE_OF_WEAK = NO;
 				CODE_SIGN_ENTITLEMENTS = iOSProject/iOSProject.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = EH8D228RS6;
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				ENABLE_BITCODE = NO;
 				GCC_PREFIX_HEADER = iOSProject/LMJiOSProject.pch;
 				INFOPLIST_FILE = iOSProject/Info.plist;
@@ -2849,7 +2849,7 @@
 					"-framework",
 					"\"WebKit\"",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.github.njhu;
+				PRODUCT_BUNDLE_IDENTIFIER = com.github.njhutang;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -2866,7 +2866,7 @@
 				CLANG_WARN_OBJC_REPEATED_USE_OF_WEAK = NO;
 				CODE_SIGN_ENTITLEMENTS = iOSProject/iOSProject.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = EH8D228RS6;
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				ENABLE_BITCODE = NO;
 				GCC_PREFIX_HEADER = iOSProject/LMJiOSProject.pch;
 				INFOPLIST_FILE = iOSProject/Info.plist;
@@ -2978,7 +2978,7 @@
 					"-framework",
 					"\"WebKit\"",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.github.njhu;
+				PRODUCT_BUNDLE_IDENTIFIER = com.github.njhutang;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
